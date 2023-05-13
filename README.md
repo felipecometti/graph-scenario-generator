@@ -17,4 +17,5 @@ naming standards, like GuestN and such.
   - randomly inside the range
   - between random users
 - event generator
-- event association generator
+  - each user creates an event
+- event association generator (x to y events per user)
