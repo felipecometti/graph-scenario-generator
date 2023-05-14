@@ -19,3 +19,8 @@ naming standards, like GuestN and such.
 - event generator
   - each user creates an event
 - event association generator (x to y events per user)
+
+## Structure
+
+- `generator` is the main
+  - it pulls specific functions (people, events...) out of `generator_functions`
